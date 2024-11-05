@@ -11,10 +11,11 @@ This React application fetches movie data from the OMDb API and displays it as a
 
 ### Project Setup
 
-1. **Clone the repository**:
+### 1. **Clone the repository**:
    ```bash
    git clone https://github.com/RaphaelMarquesMartorella/imdb-api
    cd imdb-api
+```
    
 ### 2. Install Dependencies
 
