@@ -14,23 +14,23 @@ This React application fetches movie data from the OMDb API and displays it as a
 ### 1. **Clone the repository**:
    ```bash
    git clone https://github.com/RaphaelMarquesMartorella/imdb-api
-   cd imdb-api
 ```
    
 ### 2. Install Dependencies
 
 To install the necessary dependencies for this project, follow these steps:
-```bash
-# Navigate into the project directory
-cd imdb-api
+   ```bash
+   # Navigate into the project directory
+   cd imdb-api
+   # Install the dependencies
+   npm i
 ```
 
 ### 3. Run the Application
 
 To start the application, use the following command:
-
-```bash
-npm start
+   ```bash
+   npm start
 ```
 
 ### 4. Open http://localhost:3000 in your browser to view the app.
