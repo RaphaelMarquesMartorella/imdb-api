@@ -22,6 +22,7 @@ To install the necessary dependencies for this project, follow these steps:
    ```bash
    # Navigate into the project directory
    cd imdb-api
+   cd vite-project
    # Install the dependencies
    npm i
 ```
@@ -30,7 +31,7 @@ To install the necessary dependencies for this project, follow these steps:
 
 To start the application, use the following command:
    ```bash
-   npm start
+   npm run dev
 ```
 
-### 4. Open http://localhost:3000 in your browser to view the app.
+#### 4. Open http://localhost:5173 in your browser to view the app.
